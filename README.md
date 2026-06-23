@@ -54,11 +54,6 @@ KDBC_2025/
    └─ KDBC_2025_Paper.pdf
 ```
 
-## 자료
-
-- [발표 자료 보기](./docs/KDBC_2025_Presentation.pdf)
-- [논문 보기](./docs/KDBC_2025_Paper.pdf)
-
 ## Contribution
 
 - 개인화 학습 동기부여 메시지 생성 시스템 설계 및 구현
