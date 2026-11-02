@@ -10,26 +10,20 @@ __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
 
-# 모델, 학습 결과 및 LoRA adapter
-models/
-model_cache/
+# 모델과 학습 결과 (gemma-3n-E2b-it, gemma-LoRA, Trainer 출력)
+gemma-3n-E2b-it/
+gemma-LoRA/
 results/
-checkpoints/
-adapters/
-private_adapter_output/
 *.safetensors
 *.bin
 *.pt
 *.pth
 *.ckpt
 
-# 비공개 학습 자료와 이미지
+# 학생 숙제 인증 이미지와 비공개 자료
 private_data/
 private_images/
-*.jpg
-*.jpeg
-*.png
-*.webp
+sample_homework.jpg
 
 # 운영체제 및 편집기 파일
 .DS_Store
