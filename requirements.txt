@@ -1,0 +1,19 @@
+# 논문 실험 당시 Google Colab 실행 환경 기준
+torch==2.8.0
+transformers==4.56.1
+peft==0.17.1
+accelerate==1.10.1
+bitsandbytes==0.47.0
+datasets
+numpy==2.0.2
+
+# 이미지 로드, YouTube API, MCP
+pillow
+requests
+python-dotenv==1.1.1
+nest_asyncio
+
+# 설문 분석
+krippendorff==0.8.1
+pandas
+scipy
